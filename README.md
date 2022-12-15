@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @DrewHelm
+- 👀 I’m interested in Python, C++, Java, Angular, Go!, React, HTML, etc.
+- 🌱 I’m currently learning Swift, Ruby, PHP, Kotlin, and SQL
+- 🏫 I'm currently working on applying VS Code in high school applications.
+- 📫 How to reach me: helmd2222@gmail.com
+
+<!---
+DrewHelm/DrewHelm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
