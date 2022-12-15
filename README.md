@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Swift, Ruby, PHP, Kotlin, and SQL
 - 🏫 I'm currently working on applying VS Code in high school applications.
 - 📫 How to reach me: helmd2222@gmail.com
-
+- ☠️ Using a new account because the old one is brokey :(
 <!---
 DrewHelm/DrewHelm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
